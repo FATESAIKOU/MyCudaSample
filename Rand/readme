@@ -1,0 +1,8 @@
+Introduction:
+  print out the random value in float with model uniform
+
+Usage:
+  ./rand <block_num> <thread_num>
+
+  block_num: the block number to use.
+  thread_num: the thread number each block contain.
